@@ -1,0 +1,20 @@
+{
+  "type": "Platform",
+  "kicker": "The Platform",
+  "headline": "Your first step to recovery starts here",
+  "accent": "first step",
+  "accent_style": "color",
+  "layout": "photo_full",
+  "theme": "light",
+  "photo": "serene-dawn-pomelli.jpg",
+  "subtext": "Take the FIT quiz, get matched, begin your plan.",
+  "steps": [
+    "Take the short FIT quiz to see if your symptoms are likely neuroplastic.",
+    "Get matched with a practitioner who understands them.",
+    "Begin a plan built around your recovery."
+  ],
+  "caption": "If you have been told everything looks normal but you still do not feel right, there is a clear next step.\n\nStarting with Neurowaze takes minutes. Take the short FIT quiz to see whether your symptoms are likely neuroplastic. Get matched with a practitioner trained in mind-body recovery. Then begin a plan built around you, with support between every session.\n\nFor chronic pain, fibromyalgia, IBS, tinnitus and long COVID, the hardest part is often just beginning. This makes beginning simple.\n\nTake the first step at https://neurowaze.health/start-my-recovery\n\n#ChronicPain #Neuroplasticity #Fibromyalgia #IBS #Tinnitus #LongCovid #MindBody #PainRecovery #Neurowaze",
+  "first_comment": "Getting started is free and takes a few minutes: take the FIT quiz, get matched, and begin a personalised plan. Start here: https://neurowaze.health/start-my-recovery",
+  "date": "2026-07-31",
+  "image_source": "pomelli jul: serene dawn portrait (text inpainted)"
+}

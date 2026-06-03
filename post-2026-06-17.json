@@ -1,0 +1,22 @@
+{
+  "date": "2026-06-17",
+  "type": "Science",
+  "kicker": "The Science",
+  "headline": "Rewire the neural response",
+  "accent": "Train the brain",
+  "accent_style": "color",
+  "layout": "solid_split",
+  "theme": "beige",
+  "photo": "mind-body-overview-hero.jpg",
+  "photo_side": "right",
+  "subtext": "In a trial for nerve-driven limb pain, imagined movement reduced real pain.",
+  "steps": [
+    "Patients first judged left or right limb images, retraining the brain map.",
+    "Then they practised movements in imagination, then with mirrors.",
+    "Pain and disability fell more than with usual care."
+  ],
+  "caption": "Rewire the neural response. It sounds like a slogan, but it is exactly what happened in a controlled trial.\n\nFor some long-term pain, the problem is less in the limb and more in the brain's map of it. In people with nerve-driven limb pain, a programme called graded motor imagery retrained that map. Patients judged left and right images of limbs, practised movement in their imagination, then used mirrors. No extra physical strain, yet pain and disability fell more than with usual care.\n\nIt is a striking demonstration of neuroplasticity at work, and the same principle informs recovery from chronic pain, fibromyalgia and long COVID.\n\nThe brain that learned the pain can be taught something new. Begin at https://neurowaze.health/start-my-recovery\n\n#ChronicPain #Neuroplasticity #PainScience #Fibromyalgia #LongCovid #Tinnitus #MindBody #PainRecovery #BrainHealth #Neurowaze",
+  "first_comment": "Moseley GL (2006), Graded motor imagery for pathologic pain: a randomized controlled trial, Neurology, 67(12), 2129 to 2134. Imagined and mirrored movement reduced pain and disability in complex regional pain syndrome and phantom limb pain. https://pubmed.ncbi.nlm.nih.gov/17082465/",
+  "step_style": "dot",
+  "image_source": "pomelli: pom_all_01_nw.png (Rewire the neural response)"
+}

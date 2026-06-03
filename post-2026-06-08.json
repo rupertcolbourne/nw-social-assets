@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-08",
+  "type": "Daily Practice",
+  "kicker": "Daily Practice",
+  "headline": "Box breathing to steady a racing system",
+  "accent": "steady a racing system",
+  "accent_style": "color",
+  "layout": "solid_split",
+  "theme": "dark",
+  "photo": "breathing-man.jpg",
+  "photo_side": "right",
+  "subtext": "A four-count pattern used in high-pressure jobs to calm the body fast.",
+  "steps": [
+    "Breathe in through your nose for a slow count of four.",
+    "Hold gently for four, then breathe out for four.",
+    "Hold for four, and repeat the square for two to three minutes."
+  ],
+  "caption": "When everything speeds up, the breath is the one control you can always reach for.\n\nBox breathing is a simple pattern: equal counts in, hold, out, hold. It nudges the body out of fight-or-flight and back towards calm. People in high-pressure jobs use it precisely because it works fast.\n\nFor anyone living with chronic pain, fibromyalgia, IBS, tinnitus or long COVID, a nervous system stuck on high alert keeps symptoms loud. A few minutes of steady breathing is a small, repeatable way to tell that system it is safe.\n\nTry it next time the storm builds. Then start a recovery plan at https://neurowaze.health/start-my-recovery\n\n#ChronicPain #Breathwork #NervousSystem #Fibromyalgia #IBS #Tinnitus #LongCovid #MindBody #PainRecovery #Neurowaze",
+  "first_comment": "Balban et al. (2023), Brief structured respiration practices enhance mood and reduce physiological arousal, Cell Reports Medicine, 4(1), 100895. Deliberate breathwork improved mood and lowered physiological arousal more than mindfulness meditation. https://doi.org/10.1016/j.xcrm.2022.100895",
+  "step_style": "number"
+}

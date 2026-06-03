@@ -1,0 +1,22 @@
+{
+  "date": "2026-06-19",
+  "type": "Platform",
+  "kicker": "The Platform",
+  "headline": "Watch your recovery take shape, step by step",
+  "accent": "step by step",
+  "accent_style": "color",
+  "layout": "solid_split",
+  "theme": "blue",
+  "photo": "outdoor-walk.jpg",
+  "photo_side": "right",
+  "subtext": "Daily check-ins, progress and trends, with your practitioner alongside you.",
+  "steps": [
+    "Check in each day to log how you feel.",
+    "Follow the activities your practitioner assigns to your plan.",
+    "Watch your reports, progress and trends build over time."
+  ],
+  "caption": "Recovery from neuroplastic symptoms is rarely a straight line. Seeing your progress makes the path easier to trust.\n\nOn Neurowaze you check in each day, follow the activities your practitioner sets for you, and watch your reports, progress and trends build over time. You and your practitioner stay connected between sessions, working from the same picture.\n\nFor people with chronic pain, fibromyalgia, IBS, tinnitus or long COVID, those small daily signals add up to real momentum, and proof that things are shifting.\n\nStart building your recovery, day by day, at https://neurowaze.health/start-my-recovery\n\n#ChronicPain #Neuroplasticity #Fibromyalgia #IBS #Tinnitus #LongCovid #MindBody #PainRecovery #RecoveryJourney #Neurowaze",
+  "first_comment": "See how the daily check-ins and progress tracking work: https://neurowaze.health/start-my-recovery",
+  "step_style": "word",
+  "image_source": "pomelli: pom_all_06 (walking path), text replaced with house typography"
+}

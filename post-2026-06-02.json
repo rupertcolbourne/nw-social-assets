@@ -1,0 +1,18 @@
+{
+  "type": "Science News",
+  "headline": "Retrain the brain, ease the pain",
+  "accent": "ease the pain",
+  "layout": "photo_full",
+  "theme": "dark",
+  "subtext": "Two thirds became pain-free in a landmark trial.",
+  "steps": [
+    "66% became pain-free or nearly so in four weeks, against 20% on placebo.",
+    "Brain scans confirmed it, with calmer activity in pain-processing regions.",
+    "The shift came from learning the pain no longer signalled damage."
+  ],
+  "photo": "talking-with-clinicians-hero.jpg",
+  "caption": "Two thirds of people with years of chronic back pain became pain-free in four weeks. No surgery. No new medication.\n\nThat is the headline result of a randomised trial published in JAMA Psychiatry, testing an approach called Pain Reprocessing Therapy. The idea behind it is simple. In a lot of long-term pain, the original injury has healed, but the brain has learned to keep producing the pain as a protective habit. The therapy helps people read those signals as safe rather than dangerous.\n\nThe numbers were striking. 66% of the treated group were pain-free or nearly pain-free afterwards, compared with 20% on a placebo, and most of the gains were still there a year on. Brain scans backed it up, showing quieter activity in the regions that process pain.\n\nThis is the science of neuroplastic pain, and it reaches well beyond backs. The same learned pathways are thought to drive much of fibromyalgia, IBS, tinnitus and long COVID, where a sensitised nervous system keeps the alarm sounding long after the body has healed. It means recovery is genuinely possible, through a route that does not depend on a scalpel or a prescription.\n\nWant to work with a practitioner trained in this approach? Start at https://neurowaze.health/start-my-recovery\n\n#ChronicPain #Neuroplasticity #PainReprocessing #Fibromyalgia #IBS #Tinnitus #LongCovid #MindBody #PainRecovery #Neurowaze",
+  "first_comment": "The study: Ashar et al. (2022), Effect of Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain, JAMA Psychiatry, 79(1), 13 to 23. 66% of the therapy group were pain-free or nearly pain-free after four weeks, versus 20% on placebo and 10% on usual care, with brain scans showing reduced pain-related activity and gains largely held at one year. Read it: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694",
+  "kicker": "The Science",
+  "accent_style": "color"
+}

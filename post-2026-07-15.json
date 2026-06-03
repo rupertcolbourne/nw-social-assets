@@ -1,0 +1,19 @@
+{
+  "type": "Science",
+  "kicker": "The Science",
+  "headline": "One bad night turns the pain dial up",
+  "accent": "turns the pain dial up",
+  "accent_style": "color",
+  "layout": "photo_full",
+  "theme": "dark",
+  "photo": "abstract-particles.jpg",
+  "subtext": "Sleep loss amplifies pain and dampens the brain's own relief.",
+  "steps": [
+    "After a sleepless night, the brain's pain-sensing region became more reactive.",
+    "Its natural pain-dampening circuits went quiet.",
+    "Even small discomforts registered as more painful."
+  ],
+  "caption": "If pain feels worse after a rough night, that is not your imagination. It is neuroscience.\n\nIn a controlled study, a single night of sleep deprivation amplified activity in the brain's pain-sensing cortex while quieting the regions that normally turn pain down. The result: the same stimulus hurt more, and the threshold for calling something painful dropped.\n\nThis is a two-way street in chronic pain, fibromyalgia, IBS, tinnitus and long COVID. Pain disrupts sleep, and poor sleep worsens pain. Protecting sleep is one of the most practical levers in recovery.\n\nWork on the whole picture with a practitioner at https://neurowaze.health/start-my-recovery\n\n#ChronicPain #Neuroplasticity #Fibromyalgia #IBS #Tinnitus #LongCovid #MindBody #PainRecovery #Neurowaze",
+  "first_comment": "The study: Krause AJ et al. (2019), The pain of sleep loss: a brain characterization in humans, Journal of Neuroscience, 39(12), 2291 to 2300. Sleep deprivation increased pain-related activity in somatosensory cortex and blunted pain-regulating regions, lowering pain thresholds. https://www.jneurosci.org/content/39/12/2291",
+  "date": "2026-07-15"
+}
